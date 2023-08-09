@@ -30,7 +30,7 @@
   	<div>
 		<a href="https://github.com/PHP-506-4/PHP_1STPJ" >
 			<strong>1차 프로젝트</strong>
-			<p>[일일 운동 기록 어플]</p>
+			<p>[공부 To-Do List]</p>
 		</a>
 	</div>
   	<p><a href="https://www.canva.com/design/DAFhAIw8P0I/PIau9uCC3rPBIxhhH-1nqA/edit?utm_content=DAFhAIw8P0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >1차 프로젝트 (2023-04-17 ~ 2023-05-01) PPT</a></p>
